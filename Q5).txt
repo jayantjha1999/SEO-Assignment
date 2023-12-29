@@ -1,0 +1,15 @@
+Q5)Define Favicon and give an illustrative example.
+Ans-#Favicon
+A favicon (short for favorite icon) is a small, typically square image or icon associated with a website. Favicons are displayed in the browser's address bar, next to the site's name in bookmarks or favorites, and in browser tabs. 
+Ex-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BikeService - Your Online Bike service</title>
+<!-- Favicon -->
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+</body>
